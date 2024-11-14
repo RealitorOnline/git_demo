@@ -1,2 +1,3 @@
 ahoj
 no nazdar !
+zlúčim obe vetvy cez merge
